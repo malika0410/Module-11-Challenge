@@ -21,7 +21,13 @@ Upon launching the application in google colab notebook, run the file by using t
 
 Google Colab link- https://colab.research.google.com/drive/1Yqu9tCo5grv3KGLSdxB2dfxlBvfa6yP5#scrollTo=WrGgA-HqbuRX
 
+![image](https://github.com/malika0410/Module-11-Challenge/blob/main/images/1.png)
+
 ## Import all the libraries & dependencies
+
+![image](https://github.com/malika0410/Module-11-Challenge/blob/main/images/2.PNG)
+
+![image](https://github.com/malika0410/Module-11-Challenge/blob/main/images/3.png)
 
 
 ## Step 1: Find Unusual Patterns in Hourly Google Search Traffic
@@ -48,6 +54,7 @@ To that end, you want to mine the search traffic data for predictable seasonal p
 Search traffic peaks in the beginning of the week, at it's highest point on Tuesday and tapers off reaching it's lowest point on Sunday.
 2. Using hvPlot, visualize this traffic as a heatmap, referencing index.hour for the x-axis and index.dayofweek for the y-axis. Does any day-of-week effect concentrate in just a few hours of that day?
 
+![image](https://github.com/malika0410/Module-11-Challenge/blob/main/images/day_of_week_heatmap.PNG)
 
 
 The least amount of searches are between 5 and 10 am everyday of the week, and the the most searches are concentrated early in the week extremely late at night and leads into the early morning towards 4 am. Lowest day of the week for searches is Saturday.
@@ -78,11 +85,13 @@ Yes, both plots show a severe dip in search trends and closing price beginning a
 
 3. Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
 
-
+![image](https://github.com/malika0410/Module-11-Challenge/blob/main/images/compare_search_trend_Vs_close.PNG)
 
 
 
 
 A predictable relationship does not exist between the lagged search traffic and the stock volatility OR between the lagged search traffic and the stock price returns. The highest correlation is positive .06 which is very low.
+
+![image](https://github.com/malika0410/Module-11-Challenge/blob/main/images/volatilty_corr.PNG)
 
 
