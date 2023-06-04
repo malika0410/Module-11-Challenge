@@ -36,6 +36,8 @@ Does the Google search traffic for the company link to any financial events or i
 
 1. I sliced the data to just the month of May 2020. (During this month, MercadoLibre released its quarterly financial results) and used hvPlot to visualize the results. Did any unusual patterns exist?
 
+![image](https://github.com/malika0410/Module-11-Challenge/blob/main/images/google_search_trens.PNG)
+
 
 
 There were no highly unusual patterns existing in the Month of May besides a slight increase on 5/5 which capped at 120 search trends.
