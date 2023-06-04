@@ -19,3 +19,5 @@ Following are the steps to perform the analysis and forcasting.
 To use this application, simply clone the repository and open google colab and then upload the file named forecasting_net_prophet.ipynb.
 Upon launching the application in google colab notebook, run the file by using the runtime button on the top of the notepad.
 
+Google Colab link- https://colab.research.google.com/drive/1Yqu9tCo5grv3KGLSdxB2dfxlBvfa6yP5#scrollTo=WrGgA-HqbuRX
+
